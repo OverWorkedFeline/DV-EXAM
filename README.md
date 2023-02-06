@@ -17,4 +17,5 @@ years 2008 - 2017.
  - Most Number of 4's and 6's
   - Fours : AM Rahanne (73)
   - Sixes : CH Gayle (59)
-  
+- Year 2013 has overall win % i.e, 69.8% as Home. While in the same year , it has lowest win % for away i.e., 28.8 %. 
+- CH Gayle (RCB) became a man of the man in year 2011-2012 . 
